@@ -1,6 +1,7 @@
 # python-api-mod6
 Module 6 challenge using api's within jupyter lab
 
+PLEASE READ THE README IN CODE VIEW
 
 In this repositopry we go over weather data pulled from a public api provided by https://openweathermap.org/api and data from the https://www.geoapify.com/ api's
 This read me will be a guide to how the repository is set up and how my code works
